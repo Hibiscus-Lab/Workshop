@@ -15,6 +15,7 @@ Our experience shows, that participant test.
 - test
 
 ## List of our workshops
+Below is a list of Hibiscus Lab Workshop organised by credit hour. If you know of any that are missing, or errors in the ones that are here - make a pull request or get in touch with hello@biscus.my.
 
 | No | Workshop | Credit Hour |
 |--|--|--|
