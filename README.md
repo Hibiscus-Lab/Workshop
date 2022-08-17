@@ -19,6 +19,7 @@ Below is a list of Hibiscus Lab Workshop organised by credit hour. If you know o
 
 | No | Workshop | Credit Hour |
 |--|--|--|
-| 1 | [Web Application Pentest Beginner Workshop](https://github.com/g3nj1z/web-pentest-beginner-workshop) | 10 |
+| 1 | [Lepak Sampai Lebam Beginner](https://github.com/g3nj1z/lepak-sampai-lebam-beginner) | 10 |
+| 2 | [Lepak Sampai Lebam Intermediate](https://github.com/g3nj1z/lepak-sampai-lebam-beginner) | 20 |
 
 You have a special request or want more information? We are happy to help you.
