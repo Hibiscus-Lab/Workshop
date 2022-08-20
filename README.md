@@ -19,7 +19,7 @@ Below is a list of Hibiscus Lab Workshop organised by credit hour. If you know o
 
 | No | Workshop | Credit Hour |
 |--|--|--|
-| 1 | [Lepak Sampai Lebam Beginner](https://github.com/g3nj1z/lepak-sampai-lebam-beginner) | 10 |
-| 2 | [Lepak Sampai Lebam Intermediate](https://github.com/g3nj1z/lepak-sampai-lebam-beginner) | 20 |
+| 1 | [Jom Belajar Hack Beginner](https://github.com/g3nj1z/jom-belajar-hack-beginner) | 10 |
+| 2 | [Jom Belajar Hack Intermediate](https://github.com/g3nj1z/jom-belajar-hack-intermediate) | 20 |
 
 You have a special request or want more information? We are happy to help you.
